@@ -1,0 +1,26 @@
+BLOCH-8.56.1;bad_class.java;2;DECLARATION;TYPE es.uniovi.reflection.bloch8_56_1.noncompliant.bad_class
+BLOCH-8.56.1;bad_class.java;5;DECLARATION;DECLARATION int BAD_FIELD
+BLOCH-8.56.1;bad_class.java;6;DECLARATION;FIELD static final int badconstant
+BLOCH-8.56.1;bad_class.java;7;DECLARATION;DECLARATION java.lang.String Wrong_field_name
+BLOCH-8.56.1;bad_class.java;10;DECLARATION;METHOD es.uniovi.reflection.bloch8_56_1.noncompliant.bad_class:BADMETHOD()void
+BLOCH-8.56.1;bad_class.java;15;DECLARATION;METHOD es.uniovi.reflection.bloch8_56_1.noncompliant.bad_class:do_something_wrong()void
+BLOCH-8.56.1;Another_bad_class.java;3;DECLARATION;TYPE es.uniovi.reflection.bloch8_56_1.noncompliant.Another_bad_class
+BLOCH-8.56.1;Another_bad_class.java;5;DECLARATION;FIELD static final java.lang.String stringConstant
+BLOCH-8.56.1;Another_bad_class.java;8;DECLARATION;METHOD es.uniovi.reflection.bloch8_56_1.noncompliant.Another_bad_class:BADMethodAgain()void
+BLOCH-8.56.1;lowercaseclassname.java;3;DECLARATION;TYPE es.uniovi.reflection.bloch8_56_1.noncompliant.lowercaseclassname
+BLOCH-8.56.1;lowercaseclassname.java;4;DECLARATION;DECLARATION int my_field
+BLOCH-8.56.1;lowercaseclassname.java;6;DECLARATION;METHOD es.uniovi.reflection.bloch8_56_1.noncompliant.lowercaseclassname:method_NAME()void
+BLOCH-8.56.1;BadLocalAndParamNames.java;7;DECLARATION;METHOD es.uniovi.reflection.bloch8_56_1.noncompliant.BadLocalAndParamNames:Process_Data(int,java.lang.String)void
+BLOCH-8.56.1;BadLocalAndParamNames.java;7;DECLARATION;DECLARATION int INPUT_NUMBER
+BLOCH-8.56.1;BadLocalAndParamNames.java;7;DECLARATION;DECLARATION java.lang.String user_name
+BLOCH-8.56.1;BadLocalAndParamNames.java;8;DECLARATION;DECLARATION int TOTAL_SUM
+BLOCH-8.56.1;BadLocalAndParamNames.java;9;DECLARATION;DECLARATION java.lang.String TempValue
+BLOCH-8.56.1;BadLocalAndParamNames.java;11;DECLARATION;DECLARATION int INDEX
+BLOCH-8.56.1;BadLocalAndParamNames.java;17;DECLARATION;METHOD es.uniovi.reflection.bloch8_56_1.noncompliant.BadLocalAndParamNames:combine_Strings(java.lang.String,java.lang.String)java.lang.String
+BLOCH-8.56.1;BadLocalAndParamNames.java;17;DECLARATION;DECLARATION java.lang.String FIRST
+BLOCH-8.56.1;BadLocalAndParamNames.java;17;DECLARATION;DECLARATION java.lang.String second_value
+BLOCH-8.56.1;BadLocalAndParamNames.java;18;DECLARATION;DECLARATION java.lang.String RESULT_STRING
+BLOCH-8.56.1;BadLocalAndParamNames.java;22;DECLARATION;METHOD es.uniovi.reflection.bloch8_56_1.noncompliant.BadLocalAndParamNames:WrongParamName(double,double)void
+BLOCH-8.56.1;BadLocalAndParamNames.java;22;DECLARATION;DECLARATION double TOTALAmount
+BLOCH-8.56.1;BadLocalAndParamNames.java;22;DECLARATION;DECLARATION double tax_RATE
+BLOCH-8.56.1;BadLocalAndParamNames.java;23;DECLARATION;DECLARATION double FINAL_PRICE
